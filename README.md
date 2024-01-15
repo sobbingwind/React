@@ -20,10 +20,10 @@
 3. React, ReactDOM	
 	+ document.createElement() để làm gì?
 	+ Cách thêm React vào Website
-	+ React.createElement() nữa là sao?
+	+ React.createElement()
 	+ ReactDOM là gì? Tại sao phải sử dụng?
 	+ Bài tập React DOM
-4. JSX, Components, Props12 bài học	
+4. JSX, Components, Props
 	+ JSX là gì? Tại sao cần JSX?
 	+ JSX render Arrays | JSX FQA
 	+ React element types
@@ -35,13 +35,12 @@
 	+ Bài tập
 5. Create React App
 	+ NodeJS là gì? Tại sao phải sử dụng NodeJS?
-	+ Lưu ý: Sử dụng React & React-DOM 17 ở bài sau
 	+ Tạo dự án với React + Webpack
 	+ Tạo dự án với create-react-app
 	+ NPM, NPX và YARN là gì?
 	+ CRA Folder Structure
 	+ Bài tập
-6. Hooks35 bài học	
+6. Hooks
 	+ Hooks là gì?
 	+ useState hook
 	+ Two-way binding trong React?
@@ -64,12 +63,12 @@
 	+ Context + useReducer
 	+ useImperativeHandle hook
 	+ Bài tập
-7. CSS, SCSS và CSS modules7 bài học	
+7. CSS, SCSS và CSS modules
 	+ Sử dụng CSS
 	+ CSS module
 	+ Thư viện clsx và classnames
 	+ Install SASS để dùng SCSS?
 	+ Giới thiệu khóa học Sass
 	+ Bài tập
-8. React Router V61 bài học	
+8. React Router V6
 	+ Cài đặt và tạo router
