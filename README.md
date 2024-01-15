@@ -1,4 +1,8 @@
-<p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+<p align="center">
+    <a href="https://react.dev">
+        <img src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png" >
+    </a>
+</p>
 
 # Solutions to Hackerrank practice problems
 This repository contains 185 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
