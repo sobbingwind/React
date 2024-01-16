@@ -68,7 +68,6 @@
 	+ CSS module
 	+ Thư viện clsx và classnames
 	+ Install SASS để dùng SCSS?
-	+ Giới thiệu khóa học Sass
 	+ Bài tập
 8. React Router V6
 	+ Cài đặt và tạo router
